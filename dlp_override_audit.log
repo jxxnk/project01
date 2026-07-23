@@ -1,0 +1,90 @@
+[2026-07-15 14:29:32] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Original Message: 내 계좌번호는 우리 1002937483644
+[2026-07-15 14:53:19] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Original Message: 내 API키는 alsdkfjiejkfj23940953!@%%
+[2026-07-15 15:02:57] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Original Message: 계좌번호 1002 938 473644
+[2026-07-15 15:04:39] [WARNING] User: 테스트빈 | Action: DLP_OVERRIDE | Original Message: 패스 워드는 ~입니다
+[2026-07-15 16:46:37] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 어제 회식비 정산 부탁드립니다. 국민은행 123401-04-567890 예금주 홍길동입니다
+[2026-07-15 16:57:13] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 어제 회식비 정산 부탁드립니다. 국민은행 123401-04-567890 예금주 홍길동입니다.
+[2026-07-15 17:34:01] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 우리는 글로벌 최고 기업으로 성장해야 합니다. 사무실 청소 상태도 신경 써주세요
+[2026-07-15 17:34:07] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 우리는 글로벌 최고 기업으로 성장해야 합니다. 사무실 청소 상태도 신경 써주세요
+[2026-07-15 17:34:24] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 우리는 글로벌 최고 기업으로 성장해야 합니다. 사무실 청소 상태도 신경 써주세요
+[2026-07-15 17:41:03] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 어제 회식비 정산 부탁드립니다. 국민은행 123401-04-567890 예금주 홍길동입니다.
+[2026-07-15 17:42:00] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 제품에 문제가 생기면 고객센터 1588-1111 로 전화하거나 홈페이지 www.company.com 에 문의하세요.
+[2026-07-15 17:43:49] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Original Message: 어제 회식비 정산 부탁드립니다. 국민은행 123401-04-567890 예금주 홍길동입니다.
+[2026-07-16 09:58:40] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 우리는 글로벌 최고 기업으로 성장해야 합니다. 사무실 청소 상태도 신경 써주세요.
+[2026-07-16 10:00:05] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 이번 달 출장비 정산 부탁드립니다. 제 계좌번호는 신한은행 110-123-456789 이고, 연락처는 010-9876-5432 입니다.
+[2026-07-16 10:00:24] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: QA팀입니다. 회원가입 결제 연동 테스트를 위해 가짜 카드번호 1234-5678-1234-5678 로 시도해 봤습니다. 문의 사항은 고객센터 1588-1111 로 부탁드립니다.
+[2026-07-16 10:00:58] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 이번 달 출장비 정산 부탁드립니다. 제 계좌번호는 신한은행 110-123-456789 이고, 연락처는 010-9876-5432 입니다.
+[2026-07-16 10:01:23] [WARNING] User: 호랑이 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: QA팀입니다. 회원가입 결제 연동 테스트를 위해 가짜 카드번호 1234-5678-1234-5678 로 시도해 봤습니다. 문의 사항은 고객센터 1588-1111 로 부탁드립니다.
+[2026-07-16 10:37:16] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.
+[2026-07-16 10:37:22] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.
+[2026-07-16 10:38:15] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 정산 대금은 신한은행 110-123-456789 홍길동으로 쏴주세요.
+[2026-07-16 10:42:05] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.
+[2026-07-16 10:42:12] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.
+[2026-07-16 10:42:23] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 법인카드 번호는 1234-5678-9012-3456 (국민)입니다.
+[2026-07-16 10:43:09] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 정산 대금은 신한은행 110-123-456789 홍길동으로 쏴주세요.
+[2026-07-16 10:43:15] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 정산 대금은 신한은행 110-123-456789 홍길동으로 쏴주세요.
+[2026-07-16 10:45:31] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 정산 대금은 신한은행 110-123-456789 홍길동으로 쏴주세요.
+[2026-07-16 10:54:14] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.	제 주민번호는 900101-******* 입니다. 처리 부탁드려요.
+
+[2026-07-16 10:54:37] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.	제 주민번호는 900101-******* 입니다. 처리 부탁드려요.
+
+[2026-07-16 11:03:33] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.	제 주민번호는 900101-******* 입니다. 처리 부탁드려요.
+
+[2026-07-16 11:20:41] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.	제 주민번호는 900101-******* 입니다. 처리 부탁드려요.
+
+[2026-07-16 11:21:54] [WARNING] User: 메시 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 휴대전화번호	급한 연락은 010-1234-5678로 부탁드립니다.	급한 연락은 010-****-5678로 부탁드립니다.
+[2026-07-16 11:30:12] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 이번 해외 출장용 제 여권 번호는 M12345678 입니다
+[2026-07-16 11:30:27] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 현재 접속 중인 서버 IP는 192.168.0.125 입니다
+[2026-07-16 13:48:03] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 이번 해외 출장용 제 여권 번호는 M12345678 입니다.
+[2026-07-16 14:07:28] [WARNING] User: 호날두 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: password.csv.txt]
+
+기밀
+password
+5646331
+
+제 주민번호는 900101-1234567 입니다. 처리 부탁드려요.	제 주민번호는 900101-******* 입니다. 처리 부탁드려요.
+급한 연락은 010-1234-5678로 부탁드립니다.	급한 연락은 010-****-5678로 부탁드립니다.
+법인카드 번호는 1234-5678-9012-3456 (국민)입니다.	법인카드 번호는 1234---3456 (국민)입니다.
+정산 대금은 신한은행 110-123-456789 홍길동으로 쏴주세요.	정산 대금은 신한은행 110--*** 홍길동으로 쏴주세요.
+계약서 초안은 confidential@company.co.kr로 보내주세요.	계약서 초안은 con*********@company.co.kr로 보내주세요.
+이번 해외 출장용 제 여권 번호는 M12345678 입니다.	이번 해외 출장용 제 여권 번호는 M******** 입니다.
+신분증명용 면허번호 11-12-123456-12 전달합니다.	신분증명용 면허번호 11-12-****- 전달합니다.
+현재 접속 중인 서버 IP는 192.168.0.125 입니다.	현재 접속 중인 서버 IP는 192.168.. 입니다.
+[2026-07-17 18:46:39] [WARNING] User: jun | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 카카오뱅크 3333-07-2154129
+[2026-07-20 09:45:32] [WARNING] User: jun | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 카뱅 12412321
+[2026-07-20 09:53:16] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 네, ID는 EA1234567이고 이름은 김철수입니다.
+[2026-07-20 09:53:35] [WARNING] User: 보안C팀_안병현 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 네 확인되었습니다. 임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7 이 키는 1시간 동안만 유효하며, MFA 재설정 시 자동 폐기됩니다
+[2026-07-20 09:55:07] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 토스뱅크 1241231924912로 2700만원 입금 부탁드립니다 병현님
+[2026-07-20 09:55:29] [WARNING] User: 보안C팀_안병현 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 이메일 qudgudl15@naver.com 으로 명세서 보내주세요
+[2026-07-20 09:55:40] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 제 주민등록번호는 49012430145102입니다
+[2026-07-20 09:56:26] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 저 여권을 잃어버려서 임시 여권 발급 받아야할거 같아요 제 여권번호는 M1241203이에요
+[2026-07-20 09:56:52] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 저희 법인카드 번호는 1234-5678-9012-3456 (국민)입니다.
+[2026-07-20 09:57:05] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 전화번호는 01023124021
+[2026-07-20 10:18:22] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 1234120314213(LLM 검토 완료: The text contains a South Korean Resident Registration Number which is sensitive personal information. It needs to be confirmed and masked.) | Original Message: 주민등록번호 1234120314213
+[2026-07-20 10:23:54] [WARNING] User: 보안A팀_안병현 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: API키.txt]
+
+임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7
+[2026-07-20 10:35:59] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 5409-2699-8571-7021(LLM 검토 완료: 해당 번호는 실제 카드 번호로 보이며 민감한 정보에 해당합니다.) | Original Message: 안병현 선임님 혹시 제가 카드를 주웠는데, 국민카드 5409-2699-8571-7021 이고, 연도/월은 32/12인데 병현 선임님 본인 카드 맞으실까요?
+[2026-07-20 10:36:51] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: 시연 텍스트 문서.txt]
+
+ 임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7 이 키는 1시간 동안만 유효하며, MFA 재설정 시 자동 폐기됩니다.
+
+제 이메일 qudgudl15@naver.com 으로 명세서 보내주세요.
+[2026-07-20 10:46:37] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 안병현 선임님 혹시 제가 카드를 주웠는데, 국민카드 5409-2699-8571-7021 이고, 연도/월은 32/12인데 병현 선임님 본인 카드 맞으실까요?
+[2026-07-20 10:47:13] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: 시연 텍스트 문서.txt]
+
+ 임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7 이 키는 1시간 동안만 유효하며, MFA 재설정 시 자동 폐기됩니다.
+
+제 이메일 qudgudl15@naver.com 으로 명세서 보내주세요.
+[2026-07-20 11:57:19] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 안병현 선임님 혹시 제가 카드를 주웠는데, 국민카드 5409-2699-8571-7021 이고, 연도/월은 32/12인데 병현 선임님 본인 카드 맞으실까요?
+[2026-07-20 11:58:06] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: 시연 텍스트 문서.txt]
+
+ 임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7 이 키는 1시간 동안만 유효하며, MFA 재설정 시 자동 폐기됩니다.
+
+제 이메일 qudgudl15@naver.com 으로 명세서 보내주세요.
+[2026-07-20 13:36:19] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: 안병현 선임님 혹시 제가 카드를 주웠는데, 국민카드 5409-2699-8571-7021 이고, 연도/월은 32/12인데 병현 선임님 본인 카드 맞으실까요?
+[2026-07-20 13:37:05] [WARNING] User: 보안B팀_김준영 | Action: DLP_OVERRIDE | Detected: 사유 없음(수동 전송) | Original Message: [파일명: 시연 텍스트 문서.txt]
+
+ 임시 API키입니다. EA_TEMP_KEY_X8R3N2P1M6Q7 이 키는 1시간 동안만 유효하며, MFA 재설정 시 자동 폐기됩니다.
+
+제 이메일 qudgudl15@naver.com 으로 명세서 보내주세요.
